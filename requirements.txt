@@ -1,0 +1,7 @@
+requir emen ts.txt
+scap y
+Why only scapy?
+My pr oject uses:
+The built -in sock et, struct , os, and c types modules — these come pr e-installed with  
+Python
+Only Scap y is an e xternal libr ary tha t needs t o be installed separ ately

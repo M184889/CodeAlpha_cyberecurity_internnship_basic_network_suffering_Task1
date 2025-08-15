@@ -1,0 +1,17 @@
+e x ample _ output . txt
+Admin righ ts: 1
+Sniffing on 1 92.168.100.82 (W indo ws) — P ress Ctrl+C t o stop
+IPv4 P acket: 1 92.168.100.82 → 239 .255.255.250, Protocol: 1 7, TTL: 2
+UDP: 1 92.168.100.82:550 33 → 239 .255.255.250:1 900 , Length=20 1
+IPv4 P acket: 1 92.168.100.82 → 1 92.168.100.1, Protocol: 1 , TTL: 128
+ICMP: T ype=8 , Code=0 , Length=32
+IPv4 P acket: 1 92.168.100.82 → 8 .8.8.8, Protocol: 6 , TTL: 64
+TCP: 1 92.168.100.82:50 321 → 8 .8.8.8:443 , Seq=123456 789, Ack=98 7654321
+IPv4 P acket: 8 .8.8.8 → 1 92.168.100.82, P rotocol: 6 , TTL: 118
+TCP: 8 .8.8.8:443 → 1 92.168.100.82:50 321, Seq=98 7654321 , Ack=123456 790
+IPv4 P acket: 1 92.168.100.82 → 1 92.168.100.1, Protocol: 6 , TTL: 128
+TCP: 1 92.168.100.82:55000 → 1 92.168.100.1:80 , Seq=1 001, Ack=200 2
+Notes:
+Covers UDP , ICMP , and T CP pr otocols
+Sho ws real-time ﬂo w of netw ork da ta
+Sample IP s are commonly seen in t est en vironmen ts
